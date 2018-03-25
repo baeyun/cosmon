@@ -1,0 +1,21 @@
+{
+  "name": "cosmon",
+  "version": "1.0.0",
+  "description": "Largest database for up-to-date Node runtime modules for CoffeeScript",
+  "main": "index.js",
+  "directories": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "coffee index.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bukharim96/cosmon.git"
+  },
+  "author": "bukharim96",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bukharim96/cosmon/issues"
+  },
+  "homepage": "https://github.com/bukharim96/cosmon#readme"
+}
