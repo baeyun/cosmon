@@ -1,5 +1,5 @@
 <p align='center'>
-    <img height='200px' src='https://github.com/undefinedbuddy/cosmon/blob/master/cosmon-logo.png' />
+    <img height='200px' src='https://github.com/bukharim96/cosmon/blob/master/cosmon-logo.png' />
 </p>
 <h1 align='center'>Cosmon</h1>
 <p>Largest database for up-to-date NodeJS runtime modules for CoffeeScript</p>
